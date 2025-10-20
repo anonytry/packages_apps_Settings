@@ -320,10 +320,10 @@
     <string name="lunaris_processor_code_title">Processor</string>
     <string name="lunaris_battery_type_title">Battery</string>
     <string name="lunaris_screen_title">Screen</string>
-    <string name="lunaris_device_message">ICorn 10 Pro Max</string>
-    <string name="lunaris_processor_code_message">Chicken Nuggets® 52</string>
-    <string name="lunaris_battery_type_message">15000 mAh</string>
-    <string name="lunaris_screen_message">Cathode Ray Tube 24hz</string>
+    <string name="lunaris_device_message">sky</string>
+    <string name="lunaris_processor_code_message">Snapdragon® 4Gen 2 (4nm)</string>
+    <string name="lunaris_battery_type_message">Li-Po 5000 mAh</string>
+    <string name="lunaris_screen_message">IPS LCD, 90Hz, 550 nits</string>
     
     <!-- Pocket mode -->
     <string name="proximity_wake_title">Pocket mode</string>
